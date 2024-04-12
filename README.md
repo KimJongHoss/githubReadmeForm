@@ -1,3 +1,5 @@
+![Logo](/path/to/your/logo.png)
+
 # MARKDOWN
 MARKDOWN 정리, 실습 for README.md
 
